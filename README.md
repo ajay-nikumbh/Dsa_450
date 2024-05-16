@@ -1,4 +1,3 @@
-# Index - Dsa_450
 ### [Question List](https://450dsa.com/)
 ### 01. Arrays - 35
 
