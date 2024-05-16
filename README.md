@@ -1,6 +1,6 @@
 # Dsa_450
 
-### 1. Arrays - 35
+### 01. Arrays - 35
 
 Sno | Problem Name | Logic Used | Time | Space | Youtube Link
 ----| ------------| -----------| ------ | ------ | ----------|
